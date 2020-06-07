@@ -1,0 +1,32 @@
+    html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 3,125.em;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+#footer p {
+    text-align: right;
+    color: gray;
+}
